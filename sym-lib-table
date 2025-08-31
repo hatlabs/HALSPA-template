@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HALSPA")(type "KiCad")(uri "${KIPRJMOD}/HALSPA.kicad_sym")(options "")(descr ""))
+)
